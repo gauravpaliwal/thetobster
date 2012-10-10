@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/18392/openmrs-modules/helloworld/api/src/main/java/org/openmrs/module/helloworld
+END
+HelloWorldActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/18392/openmrs-modules/helloworld/api/src/main/java/org/openmrs/module/helloworld/HelloWorldActivator.java
+END
+HelloWorldResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/18392/openmrs-modules/helloworld/api/src/main/java/org/openmrs/module/helloworld/HelloWorldResponse.java
+END
+HelloWorldService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/18392/openmrs-modules/helloworld/api/src/main/java/org/openmrs/module/helloworld/HelloWorldService.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/18392/openmrs-modules/helloworld/omod/src/test/resources
+END
+TestingApplicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/18392/openmrs-modules/helloworld/omod/src/test/resources/TestingApplicationContext.xml
+END
+test-hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/18392/openmrs-modules/helloworld/omod/src/test/resources/test-hibernate.cfg.xml
+END

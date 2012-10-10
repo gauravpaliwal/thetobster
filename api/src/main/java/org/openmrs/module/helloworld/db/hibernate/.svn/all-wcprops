@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/18392/openmrs-modules/helloworld/api/src/main/java/org/openmrs/module/helloworld/db/hibernate
+END
+HibernateHelloWorldDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/18392/openmrs-modules/helloworld/api/src/main/java/org/openmrs/module/helloworld/db/hibernate/HibernateHelloWorldDAO.java
+END
